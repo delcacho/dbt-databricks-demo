@@ -1,4 +1,4 @@
-![DBT logo](https://www.scalefree.com/wp-content/uploads/2021/09/dbt-logo.png)
+![DBT logo](https://www.getdbt.com/ui/img/logos/dbt-logo.svg)
 ![Databricks logo](https://databricks.com/wp-content/uploads/2021/10/db-nav-logo.svg)
 
 This repository contains the Marketing Attribution demo from DBT, adapted to work on top of the Databricks connector. Some corrections had to be made on the original code because the Spark SQL syntax seems to be slightly different than vanilla SQL, specially with regards to Date handling. The project profile file has been modified to work with the latest version of DBT.
