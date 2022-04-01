@@ -20,6 +20,10 @@ There is a companion Databricks notebook with some visualizations to showcase th
 
 https://github.com/delcacho/dbt-databricks-demo/blob/master/DBT%20Demo.py
 
+A working notebook can be found in the E2 demo environment (Databricks internal link only):
+
+https://e2-demo-west.cloud.databricks.com/?o=2556758628403379#notebook/2035247281456577/command/1382601644759102
+
 
 # Attribution playbook
 This dbt project is a worked example to demonstrate how to model customer
