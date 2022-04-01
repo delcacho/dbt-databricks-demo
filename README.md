@@ -18,7 +18,7 @@ dbt-spark                                     1.0.0
 
 There is a companion Databricks notebook with some visualizations to showcase the capabilities of the Databricks platform in terms of IDE environment for exploratory data analysis. It can be used to inspect the results after running the DB project offline. For instructions on how to connect to DBT, please follow the guideline contained in the notebook:
 
-![https://github.com/delcacho/dbt-databricks-demo/blob/master/DBT%20Demo.py](https://github.com/delcacho/dbt-databricks-demo/blob/master/DBT%20Demo.py)
+https://github.com/delcacho/dbt-databricks-demo/blob/master/DBT%20Demo.py
 
 
 # Attribution playbook
